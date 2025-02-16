@@ -50,7 +50,7 @@ In this game, players pop bubbles to earn points. Larger circles award **+5 poin
 
 https://github.com/user-attachments/assets/d6b37808-c466-45ac-ba6d-c1c89417e4fc
 
-9de82c-c8bc-4b60-8322-9cc2b4d69448)
+
 
 
 ## 📌 Future Enhancements
