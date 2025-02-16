@@ -2,6 +2,9 @@
 
 A fun and interactive bubble-popping game built using **HTML**, **CSS**, **JavaScript**, and **D3.js**, with automatic score tracking and data logging to **Google Sheets**.
 
+https://github.com/user-attachments/assets/d6b37808-c466-45ac-ba6d-c1c89417e4fc
+
+
 ## 📝 Description
 
 In this game, players pop bubbles to earn points. Larger circles award **+5 points**, while smaller circles are worth **+20 points**. The game ends if a player fails to pop any small circle for **2 consecutive minutes**.
@@ -46,12 +49,6 @@ In this game, players pop bubbles to earn points. Larger circles award **+5 poin
     def save_score_to_sheet(score):
         worksheet.append_row([score])
     ```
-4. Click **Run** to start the game.
-
-https://github.com/user-attachments/assets/d6b37808-c466-45ac-ba6d-c1c89417e4fc
-
-
-
 
 ## 📌 Future Enhancements
 
