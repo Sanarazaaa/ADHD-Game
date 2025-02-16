@@ -48,9 +48,9 @@ In this game, players pop bubbles to earn points. Larger circles award **+5 poin
     ```
 4. Click **Run** to start the game.
 
-## 📷 Preview
+https://github.com/user-attachments/assets/d6b37808-c466-45ac-ba6d-c1c89417e4fc
 
-![image](https://github.com/user-attachments/assets/d59de82c-c8bc-4b60-8322-9cc2b4d69448)
+9de82c-c8bc-4b60-8322-9cc2b4d69448)
 
 
 ## 📌 Future Enhancements
